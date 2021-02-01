@@ -30,7 +30,7 @@ let fruitSlowDown = false;
 // 广告链接：false 或为空字符串表示不会跳转到广告
 let adLink = false;
 
-document.getElementsByTagName("title")[0].innerText = '合成大呆瓜';
+document.getElementsByTagName("title")[0].innerText = '小猪圈来！';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
